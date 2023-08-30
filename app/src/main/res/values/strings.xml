@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Completa 30 na...</string>
+    <string name="answer_etanol">Abasteça com etanol</string>
+    <string name="answer_gasolina">Abasteça com gasolina</string>
+    <string name="message_gasolina">Valor do litro da gasolina</string>
+    <string name="message_etanol">Valor do litro do etanol</string>
+    <string name="button_text">Qual a melhor opção?</string>
+</resources>
